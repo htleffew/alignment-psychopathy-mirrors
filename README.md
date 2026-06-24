@@ -2,7 +2,7 @@
 
 Structural parallels between LLM optimization/alignment mechanics and psychopathic pathology, agentic autonomy, and activation-level policy diagnostics
 
-Heather Leffew, PhD. Obelus Institute.
+Heather Leffew, PhD. HAIIQU.
 
 ## Status
 
